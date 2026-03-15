@@ -1,0 +1,16 @@
+{
+  "user_id": "demo",
+  "credit_score": 750,
+  "epf_balance": 500000,
+  "assets": [
+    {"name": "Savings Account", "value": 200000},
+    {"name": "Mutual Funds",    "value": 300000},
+    {"name": "Gold ETF",        "value": 150000}
+  ],
+  "liabilities": [
+    {"name": "Home Loan", "principal": 4000000, "rate": 8.5, "emi": 35000},
+    {"name": "Car Loan",  "principal":  450000,  "rate": 9.2, "emi": 12000}
+  ],
+  "monthly_income":   150000,
+  "monthly_expenses":  80000
+}
